@@ -1,0 +1,15 @@
+Column	ID	text	option_1	option_2	option_3	option_4	option_correct
+q178	178	Which is bigger?	The earth	The sun	NA	NA	2
+q255	255	STALE is to STEAL as 89475 is to...	89457	98547	89754	89547	4
+q1201	1201	"What is next in this series? 1, 4, 10, 19, 31, _"	36	48	46	Don't know / don't care	3
+q14835	14835	"If you turn a left-handed glove inside out, it fits..."	On my left hand	On my right hand	NA	NA	2
+q8672	8672	In the line 'Wherefore art thou Romeo?' what does 'wherefore' mean?	Why	Where	How	Who cares / wtf?	1
+q18154	18154	How many fortnights are in a year?	52	14	26	365	3
+q12625	12625	Half of all policemen are thieves and half of all policemen are murderers. Does it follow logically that all policemen are criminals?	Yes	No	NA	NA	2
+q477	477	Which is longer?	A mile	A kilometer	I don't know!	NA	1
+q256	256	"When birds stand on power lines and don't get hurt, it's most likely because of:"	"Good timing, they only land between calls"	Body materials that are insulated from current	Not touching anything else at the same time	"They do get hurt, they just express it poorly"	3
+q43639	43639	Etymology is...	The study of culinary arts.	The study of insects.	The study of the origins of words.	I don't know.	3
+q267	267	"If some men are doctors and some doctors are tall, does it follow that some men are tall?"	Yes	No	NA	NA	2
+q18698	18698	A little grade 10 science. Ideal Gas Law?	PV = nRT	G + V = 1/T	y=mx+b	Not sure / wish I could skip this one	1
+q511	511	"If you flipped three pennies, what would be the odds that they all came out the same?"	"I admit, I don't know!"	1 in 3	1 in 4	1 in 8	3
+q57844	57844	Which is the day before the day after yesterday?	Yesterday.	Today.	Tomorrow.	NA	1
